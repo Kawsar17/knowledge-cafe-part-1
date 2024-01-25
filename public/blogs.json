@@ -1,0 +1,67 @@
+[
+    {
+        "id": 12345,
+        "cover": "cover_image_1.jpg",
+        "title": "The Quantum Enigma",
+        "author": "Veronica A. Steele",
+        "author_Img": "https://i.ibb.co/QrpQ6wy/top-view-unrecognizable-hacker-performing-cyberattack-night.jpg",
+        "posted_date": "2024-01-25",
+        "reading_time": "15 minutes",
+        "hashtags": [
+            "#QuantumPhysics",
+            "#Mystery"
+        ]
+    },
+    {
+        "id": 67890,
+        "cover": "cover_image_2.jpg",
+        "title": "Galactic Odyssey",
+        "author": "Orion Nebula",
+        "author_Img": "https://i.ibb.co/fX7g4tv/top-view-desk-concept-with-coffee.jpg",
+        "posted_date": "2024-01-24",
+        "reading_time": "20 minutes",
+        "hashtags": [
+            "#SpaceAdventure",
+            "#SciFi"
+        ]
+    },
+    {
+        "id": 13579,
+        "cover": "cover_image_3.jpg",
+        "title": "Culinary Chronicles",
+        "author": "Gourmet Guru",
+        "author_Img": "https://i.ibb.co/tDZgqLY/rear-view-programmer-working-all-night-long.jpg",
+        "posted_date": "2024-01-23",
+        "reading_time": "10 minutes",
+        "hashtags": [
+            "#Foodie",
+            "#CookingTales"
+        ]
+    },
+    {
+        "id": 24680,
+        "cover": "cover_image_4.jpg",
+        "title": "Whispers in the Shadows",
+        "author": "Mystique Shadows",
+        "author_Img": "https://i.ibb.co/L0ch2xy/html-css-collage-concept-with-person.jpg",
+        "posted_date": "2024-01-22",
+        "reading_time": "18 minutes",
+        "hashtags": [
+            "#Mystery",
+            "#Suspense"
+        ]
+    },
+    {
+        "id": 98765,
+        "cover": "cover_image_5.jpg",
+        "title": "The Artisan's Legacy",
+        "author": "Evelyn Brushstroke",
+        "author_Img": "https://i.ibb.co/MCSQpWs/ai-site-helping-with-software-production.jpg",
+        "posted_date": "2024-01-21",
+        "reading_time": "12 minutes",
+        "hashtags": [
+            "#Artistry",
+            "#Heritage"
+        ]
+    }
+]
